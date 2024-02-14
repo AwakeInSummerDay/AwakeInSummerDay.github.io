@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on LittleBruce_-Space</title>
-        <link>https://awakeinsummerday.github.io/LittleBruce.github.io/categories/</link>
+        <link>https://awakeinsummerday.github.io/categories/</link>
         <description>Recent content in Categories on LittleBruce_-Space</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>LittleBruce</copyright><atom:link href="https://awakeinsummerday.github.io/LittleBruce.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>LittleBruce</copyright><atom:link href="https://awakeinsummerday.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
