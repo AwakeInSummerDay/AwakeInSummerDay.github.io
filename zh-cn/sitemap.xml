@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://AwakeInSummerDay.github.io/</loc>
+    <loc>https://awakeinsummerDay.github.io/</loc>
     <lastmod>2024-02-20T13:19:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AwakeInSummerDay.github.io/en/"
+                href="https://awakeinsummerDay.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://AwakeInSummerDay.github.io/"
+                href="https://awakeinsummerDay.github.io/"
                 />
   </url><url>
-    <loc>https://AwakeInSummerDay.github.io/posts/</loc>
+    <loc>https://awakeinsummerDay.github.io/posts/</loc>
     <lastmod>2024-02-20T13:19:00+08:00</lastmod>
   </url><url>
-    <loc>https://AwakeInSummerDay.github.io/posts/first_log_finial/</loc>
+    <loc>https://awakeinsummerDay.github.io/posts/first_log_finial/</loc>
     <lastmod>2024-02-20T13:19:00+08:00</lastmod>
   </url><url>
-    <loc>https://AwakeInSummerDay.github.io/categories/</loc>
+    <loc>https://awakeinsummerDay.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AwakeInSummerDay.github.io/en/categories/"
+                href="https://awakeinsummerDay.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://AwakeInSummerDay.github.io/categories/"
+                href="https://awakeinsummerDay.github.io/categories/"
                 />
   </url><url>
-    <loc>https://AwakeInSummerDay.github.io/tags/</loc>
+    <loc>https://awakeinsummerDay.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AwakeInSummerDay.github.io/en/tags/"
+                href="https://awakeinsummerDay.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://AwakeInSummerDay.github.io/tags/"
+                href="https://awakeinsummerDay.github.io/tags/"
                 />
   </url>
 </urlset>

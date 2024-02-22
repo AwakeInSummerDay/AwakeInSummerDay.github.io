@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://AwakeInSummerDay.github.io/en/categories/</loc>
+    <loc>https://awakeinsummerDay.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://AwakeInSummerDay.github.io/categories/"
+                href="https://awakeinsummerDay.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AwakeInSummerDay.github.io/en/categories/"
+                href="https://awakeinsummerDay.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://AwakeInSummerDay.github.io/en/</loc>
+    <loc>https://awakeinsummerDay.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://AwakeInSummerDay.github.io/"
+                href="https://awakeinsummerDay.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AwakeInSummerDay.github.io/en/"
+                href="https://awakeinsummerDay.github.io/en/"
                 />
   </url><url>
-    <loc>https://AwakeInSummerDay.github.io/en/tags/</loc>
+    <loc>https://awakeinsummerDay.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://AwakeInSummerDay.github.io/tags/"
+                href="https://awakeinsummerDay.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AwakeInSummerDay.github.io/en/tags/"
+                href="https://awakeinsummerDay.github.io/en/tags/"
                 />
   </url>
 </urlset>
